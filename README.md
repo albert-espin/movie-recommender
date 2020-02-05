@@ -6,4 +6,4 @@ Small collaborative-filtering movie recommender system, using [Movielens dataset
 | **Programming language**  | Python 2 (Jupyter Notebook) |
 | **Language**   | English (variables and functions), Catalan (comments) |
 | **Authors** | Albert Espín and Pau Sanchez (partially; the base code skeleton was provided by Prof. Jordi Vitrià) |
-| **Date**  | Q4 2017  |
+| **Date**  | Q4 2016  |
